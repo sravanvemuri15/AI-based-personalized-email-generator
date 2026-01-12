@@ -14,12 +14,3 @@ This project demonstrates how to use AI to generate highly tailored cold emails 
 - **Reproducible Environment:** Deploy anywhere with Docker.
 
 ---
-
-## 🧩 Project Structure
-
-```plaintext
-ai_email_gen/
-├── app.py                   # Main script for loading data, LLM, generating emails
-├── lead_product_sample.json # Example lead and product for demonstration
-├── requirements.txt         # Python dependencies
-└── Dockerfile               # For containerization
